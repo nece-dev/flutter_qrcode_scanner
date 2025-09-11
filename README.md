@@ -207,3 +207,4 @@ Requires at least iOS 8.
 * Android: https://github.com/zxing/zxing
 * iOS: https://github.com/mikebuss/MTBBarcodeScanner
 * Special Thanks To: LeonDevLifeLog for his contributions towards improving this package.
+# flutter_qrcode_scanner
